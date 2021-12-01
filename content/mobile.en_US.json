@@ -1,6 +1,4 @@
 {
-    "anotherrrr_key": "did this one auto pull how about now?",
-    "another_key": "did this pull automatically?",
     "language_switch": "Switch language",
     "welcome_slide1": "Welcome\n to the Home of\n Award-Winning\n Documentaries",
     "welcome_slide2": "Plans start at\n $2.99 USD\/month\n or $19.99 USD\/year",
@@ -196,5 +194,7 @@
     "appreciate_your_feed_back": "We appreciate your feedback",
     "server_error": "Server Error",
     "carousel": "carousel",
-    "do_something": "Hello"
+    "do_something": "Hello",
+    "another_key": "did this pull automatically?",
+    "anotherrrr_key": "did this one auto pulllll?"
 }
